@@ -28,8 +28,8 @@ main {
 }
 
 .portrait {
-  width: 82px;
-  height: 106px;
+  width: 96px;
+  height: 124px;
   object-fit: cover;
   border: 1px solid #bbb;
 }
@@ -113,8 +113,8 @@ li {
   }
 
   .portrait {
-    width: 74px;
-    height: 94px;
+    width: 86px;
+    height: 110px;
     margin-top: 14px;
   }
 
