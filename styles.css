@@ -18,8 +18,22 @@ main {
 .page-header {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   gap: 32px;
   margin-bottom: 22px;
+}
+
+.intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+}
+
+.portrait {
+  width: 118px;
+  height: 148px;
+  object-fit: cover;
+  border: 1px solid #bbb;
 }
 
 h1 {
@@ -98,6 +112,16 @@ li {
 
   .page-header {
     display: block;
+  }
+
+  .intro {
+    display: block;
+  }
+
+  .portrait {
+    width: 105px;
+    height: 132px;
+    margin-bottom: 12px;
   }
 
   address {
