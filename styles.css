@@ -24,16 +24,12 @@ main {
 
 h1 {
   margin: 0;
-  font-size: 42px;
+  font-size: 32px;
   font-weight: 500;
 }
 
-.subtitle {
-  margin: 4px 0 0;
-}
-
 address {
-  margin-top: 10px;
+  margin-top: 4px;
   font-style: normal;
   text-align: right;
 }
@@ -109,7 +105,7 @@ li {
   }
 
   h1 {
-    font-size: 36px;
+    font-size: 30px;
   }
 
   h2 {
